@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>System.Reflection.Cache</RootNamespace>
+		<AssemblyName>System.Reflection.Cache</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<InternalsVisibleTo Include="System.Reflection.Cache.Tests" />
+	</ItemGroup>
+</Project>
